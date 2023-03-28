@@ -1,5 +1,12 @@
 ### Hi i´m Osmar 👋
 
+
+
+
+🌱 I’m currently learning
+
+
+
 <!--
 **OsmarAlvarado/OsmarAlvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
